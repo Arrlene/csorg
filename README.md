@@ -1,7 +1,7 @@
 # Assignment2
 Arlene Huerta  
 
-## Overview!
+## Overview
 This assignment(2) is about practicing data representation and conversions.
 
 Here, I wrote six functions in **convert.c** and used a simple test runner in **main.c** to check them with the provided `a2_tests.txt`.
